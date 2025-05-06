@@ -1,5 +1,7 @@
 # ghostty-setting
 
-starshipも入れておく
+## starshipも入れておく
 https://starship.rs/ja-JP/
 （文字化け対策でNard Fontも忘れずに）
+
+starshipの設定は `~/.config/starship.toml`
